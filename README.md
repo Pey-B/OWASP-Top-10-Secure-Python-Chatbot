@@ -1,4 +1,20 @@
-# OWASP Top 10 Secure Python Chatbot
+<h1 align="center" style="color:#7C3AED;">
+🛡️ OWASP Top 10 Secure Python Chatbot
+</h1>
+
+<p align="center">
+<strong>Secure API Development • OWASP Mitigation • Python • FastAPI</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Framework-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-Top%2010-red?logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT-orange?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-RBAC-purple" />
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen" />
+</p>
+
 
 ## 📌 Project Overview
 
@@ -96,7 +112,7 @@ This project directly addresses several OWASP Top 10 vulnerabilities:
 ![Injection Attempt](screenshots/07_injection_attempt.png)
 
 ### Knowledge Base Functionality
-![Knowledge Base](screenshots/08_knowledge_base.png)
+![Knowledge Base](screenshots/08_knowledge_base_QA.png)
 
 
 ---
