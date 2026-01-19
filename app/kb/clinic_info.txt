@@ -1,0 +1,11 @@
+Pinewood Clinic operates Monday through Friday from 8:00 AM to 5:00 PM.
+
+Pinewood Clinic provides primary care, preventive care, and outpatient services.
+
+Appointments can be scheduled up to 30 days in advance.
+
+Patients must be authenticated to view or modify appointment details.
+
+Pinewood Bot does not provide medical diagnoses or treatment advice.
+
+For medical emergencies, patients should contact emergency services immediately.
